@@ -1,3 +1,5 @@
+Note that this repo is deprecated.
+
 # bond-tests
 Image for running bond tests
 
